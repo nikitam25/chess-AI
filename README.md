@@ -4,7 +4,7 @@ Not too heavy on the HTML but to understand the code a substancial Javascript an
 All the code is in the file index.html.
 I made it this way to reduce confusion about file referencing. 
 
-# usage
+# UI
 download then run index.html.
 the board will look like this:
 
