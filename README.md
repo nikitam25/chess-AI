@@ -1,5 +1,15 @@
 # chess-AI
-A simple chess AI using HTML, Javascript, JQuery, and CSS
-All the code is in the file index.html
-I made it this way to reduce confusion about file referencing :)
-Enjoy!
+A simple but smart chess AI using HTML, Javascript, JQuery, and CSS.
+Not too heavy on the HTML but to understand the code a substancial Javascript and JQuery knowledge is required.
+All the code is in the file index.html.
+I made it this way to reduce confusion about file referencing. 
+
+# usage
+download then run index.html
+the board will look like this:
+
+![chessboard-github](https://user-images.githubusercontent.com/82123863/114009839-8230fc80-9831-11eb-86a4-3fb52022f73a.png)
+
+When you hover on a piece, all the squares that the piece can legally move to are colored grey. When you pick up a piece and start moving it, the starting square and the square the piece is currently on are highlighted in a gold color 
+
+The computer will then play it's move.
