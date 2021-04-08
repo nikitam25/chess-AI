@@ -1,4 +1,4 @@
-# chess-AI ♟️
+# chess-AI 
 A simple but smart chess AI using HTML, Javascript, JQuery, and CSS.
 Not too heavy on the HTML but to understand the code a substancial Javascript and JQuery knowledge is required.
 All the code is in the file index.html.
