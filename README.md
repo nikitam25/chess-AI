@@ -5,7 +5,7 @@ All the code is in the file index.html.
 I made it this way to reduce confusion about file referencing. 
 
 # usage
-download then run index.html
+download then run index.html.
 the board will look like this:
 
 ![chess board final](https://user-images.githubusercontent.com/82123863/114012314-2caa1f00-9834-11eb-8367-7ad24712b57c.png)
