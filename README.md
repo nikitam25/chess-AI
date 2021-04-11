@@ -5,10 +5,9 @@ A simple but smart chess AI using the minimax algorithm and Alpha-Beta pruning.
 download then run index.html.
 the board will look like this:
 
-![chess board final](https://user-images.githubusercontent.com/82123863/114012314-2caa1f00-9834-11eb-8367-7ad24712b57c.png)
+![chessgif](https://user-images.githubusercontent.com/82123863/114316528-f689cb00-9ad1-11eb-8501-25d02c31edd8.gif)
 
-
-When you hover on a piece, all the squares that the piece can legally move to are colored grey. When you pick up a piece and start moving it, the starting square and the square the piece is currently on are highlighted in a gold color 
+When you hover on a piece, all the squares that the piece can legally move to are colored grey. When you pick up a piece and start moving it, the starting square and the square the piece is currently on are highlighted in a gold color. The program also provides a transcript of the game in standard chess notation.
 
 The computer will then play it's move.
 
