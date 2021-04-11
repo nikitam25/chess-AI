@@ -1,8 +1,5 @@
 # chess-AI 
-A simple but smart chess AI using HTML, Javascript, JQuery, and CSS.
-Not too heavy on the HTML but to understand the code a substancial Javascript and JQuery knowledge is required.
-All the code is in the file index.html.
-I made it this way to reduce confusion about file referencing. 
+A simple but smart chess AI using the minimax algorithm and Alpha-Beta pruning.
 
 # UI
 download then run index.html.
